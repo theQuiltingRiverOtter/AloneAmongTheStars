@@ -1,0 +1,19 @@
+body {
+    height: 100vh;
+    font-family: MuseoModerno, cursive, serif;
+}
+
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    min-height: 88vh;
+}
+
+
+
+.new-card {
+    background-image: url("moon-card.jpg");
+    width: 200px;
+    height: 300px;
+}
